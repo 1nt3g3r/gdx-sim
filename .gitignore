@@ -1,0 +1,14 @@
+#Temp files
+bin
+build
+
+#Eclipse specific
+.classpath
+.project
+.settings
+
+#Gradle specific
+.gradle
+
+#Android Studio
+.idea
