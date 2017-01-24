@@ -12,3 +12,7 @@ build
 
 #Android Studio
 .idea
+*.iml
+
+#Machine specific
+pull.sh
