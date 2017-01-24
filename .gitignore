@@ -16,3 +16,4 @@ build
 
 #Machine specific
 pull.sh
+push.sh
